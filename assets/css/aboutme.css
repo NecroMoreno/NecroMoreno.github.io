@@ -1,0 +1,29 @@
+.banner-image {
+    width: 100%;
+    height: 450px;
+    background-image: url("/assets/img/banner-aboutme.jpg");
+    background-size: cover;
+  }
+
+  #icono{
+    font-size: 80px;
+  }
+
+  #fila{
+    width: 100%;
+    height: 60px;
+    color: #efae5e
+  }
+
+h1{
+    color: #efae5e;
+    text-align: center;
+}
+
+body{
+    background-color:azure;
+    margin: 0;
+    padding: 0;
+}
+
+

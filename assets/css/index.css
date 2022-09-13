@@ -1,0 +1,25 @@
+h1{
+    color: #efae5e;
+    text-align: center;
+}
+
+body{
+    background-color:azure;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* cambio para agregar texto sobre el carrusel*/
+.carousel-caption {
+    position: absolute; 
+    right: 15%;
+    top: 125px; /* Cambiar bottom por top y los píxeles que necesites */
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+        /*background-color: rgba(0, 0, 0, 0.5);  Añadir para conseguir el fondo con opacidad */
+}
